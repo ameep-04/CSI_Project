@@ -1,0 +1,7 @@
+[
+  { "city": "Ahmedabad", "iata": "AMD" },
+  { "city": "Mumbai", "iata": "BOM" },
+  { "city": "Delhi", "iata": "DEL" },
+  { "city": "Bengaluru", "iata": "BLR" },
+  { "city": "Kolkata", "iata": "CCU" }
+]
